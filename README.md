@@ -1,4 +1,4 @@
-### Salve, eu sou o João Pedro, a.k.a Pirexxx 👋
+### Salve, eu sou o João Pedro 👋
 
 - 👾 Atualmente, estou focado em me tornar um Dev FullStack (pode acompanhar nesse perfil).
 - 🤖 Já estudei Python, C, C#, Java, HTML/CSS, SQL(PostgreSQL) e agora JavaScript.

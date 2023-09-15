@@ -1,8 +1,8 @@
 ### Salve, eu sou o João Pedro 👋
 
-- 👾 Atualmente, estou focado em me tornar um Dev FullStack (pode acompanhar nesse perfil).
-- 🤖 Já estudei Python, C, C#, Java, HTML/CSS, SQL(PostgreSQL) e agora JavaScript.
-- 😹 Minha missão por agora é, primeiramente, me formar e segundamente, encher esse perfil de projetos.
+- 👾
+- 🤖
+- 😹
 
 <div style="display: inline_block"><br>
   <img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
